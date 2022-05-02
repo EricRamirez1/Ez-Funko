@@ -1,0 +1,28 @@
+
+
+p{
+padding-left: 25px;
+}
+.art {
+  background-color: blue; 
+}
+
+.footer{
+background-color: white;
+border: 1px solid black;
+padding-left: 10px;
+}
+
+.header{
+border: 1px solid black;
+padding-left: 100px;
+margin-left: px; 
+}
+
+.marvel{
+width:120px;
+}
+
+.disney{
+width:120px;
+}
